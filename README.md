@@ -1,1 +1,2 @@
-# skul
+# school
+school
