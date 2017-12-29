@@ -1,0 +1,10 @@
+/home/adam/RiderProjects/School/School/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/adam/RiderProjects/School/School/bin/Debug/School.exe.mdb
+/home/adam/RiderProjects/School/School/bin/Debug/School.exe
+/home/adam/RiderProjects/School/School/obj/Debug/School.exe
+/home/adam/RiderProjects/School/School/obj/Debug/School.exe.mdb
+/home/adam/RiderProjects/School/git/school/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/adam/RiderProjects/School/git/school/bin/Debug/School.exe.mdb
+/home/adam/RiderProjects/School/git/school/bin/Debug/School.exe
+/home/adam/RiderProjects/School/git/school/obj/Debug/School.exe
+/home/adam/RiderProjects/School/git/school/obj/Debug/School.exe.mdb
